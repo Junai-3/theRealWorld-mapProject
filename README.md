@@ -1,0 +1,1 @@
+This is a read me file for the documentation of my first web technology project!
